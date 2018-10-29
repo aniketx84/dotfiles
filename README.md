@@ -20,7 +20,11 @@ Dotfile for arch+i3+polybar setup
 16. rofi
 17. ranger(cmd based), thunar(gui)
 18. neofetch(optional)
-
+## Installation(for ubuntu)
+### 1. i3-gaps
+        https://gist.github.com/boreycutts/6417980039760d9d9dac0dd2148d4783
+### 2. Polybar
+        https://medium.com/@tatianaensslin/install-polybar-in-3-steps-on-debian-stretch-c64ab6157fb1
 ## Some common problems and work around
 ### 1. Nvidia driver issue
         https://www.youtube.com/watch?v=5o7xdrA21Hc
