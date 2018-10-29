@@ -1,0 +1,42 @@
+sw_volume: 98
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 4
+time: 108.321000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:02 Itni Si Baat Hain (SongsMp3.Com).mp3
+1:Maroon V/Maroon 5 - V (2014)/Animals - Maroon 5 [FLAC Lossless].flac
+2:Maroon V/Maroon 5 - V (2014)/It Was Always You - Maroon 5 [FLAC Lossless].flac
+3:Maroon V/Maroon 5 - V (2014)/Maps - Maroon 5 [FLAC Lossless].flac
+4:Maroon V/Maroon 5 - V (2014)/Unkiss Me - Maroon 5 [FLAC Lossless].flac
+5:Maroon V/Overexposed (2012)/02 - Payphone (www.SongsLover.pk).mp3
+6:Maroon V/Overexposed (2012)/05 - The Man Who Never Lied (www.SongsLover.pk).mp3
+7:Maroon V/Overexposed (2012)/06 - Love Somebody (www.SongsLover.pk).mp3
+8:Maroon V/Overexposed (2012)/12 - Beautiful Goodbye (www.SongsLover.pk).mp3
+9:Maroon V/Overexposed (2012)/13 - Maroon 5 - Wipe Your Eyes.mp3
+10:01 Sanam Teri Kasam (Title Song) Ankit Tiwari 190Kbps.mp3
+11:01 Bol Do Na Zara.mp3
+12:03 Bewajah - Sanam Teri Kasam (Himesh Reshammiya) 190Kbps.mp3
+13:04_-_Manchala(MyMp3Song.Com).mp3
+14:03 Hasi (Amit Mishra) Hamari Adhuri Kahani - 190Kbps.mp3
+15:05 The Chainsmokers and Coldplay - Something Just Like This.mp3
+16:44. KHIZA KE PHOOL.m4a
+17:42. MERE MEHBOOB.m4a
+18:Kabhi Kabhi Mere Dil Mein Duet-(Mr-Jatt.com).mp3
+19:Main Laut Aunga.mp3
+20:26. AATE JATE KHOOBSURAT.m4a
+21:27. CHHUP GAYE SARE NAZARE.m4a
+22:33. HUMEIN TUMSE PYAR KITNA.m4a
+23:Love You No More.m4a
+24:ab/music/Aaj Phir (Hate Story 2) Arijit Singh (128Kbps Webrip).mp3
+25:Mera Jahan Video Song _ Gajendra Verma _ Latest Hindi Songs 2017 _ T-Series-j9jlAww4nHQ.m4a
+26:43. KHILTE HAI GUL YAHAN.m4a
+playlist_end
