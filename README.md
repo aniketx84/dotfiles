@@ -30,5 +30,6 @@ Dotfile for arch+i3+polybar setup
         https://www.youtube.com/watch?v=5o7xdrA21Hc
 ### 2. Tap to click
         https://wiki.archlinux.org/index.php/Libinput#Button_re-mapping
- 
+### 3. Fix clear option on ssh
+        https://dimit.me/blog/2015/01/28/urxvt-term-support-ssh/
 
