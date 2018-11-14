@@ -198,8 +198,9 @@ for_window [class="^.*"] border pixel 0
 bindsym $mod+b exec firefox;workspace $ws2
 bindsym $mod+C exec ~/.config/caa.sh
 bindsym $mod+t exec thunar;workspace $ws4
-bindsym $mod+m exec mpd
-bindsym $mod+Shift+m exec mpd --kill
+#bindsym $mod+m exec mpd
+#bindsym $mod+Shift+m exec mpd --kill
+bindsym $mod+x exec betterlockscreen -l
 bindsym $mod+p exec poweroff
 bindsym $mod+Shift+p exec reboot
 bindsym $mod+i gaps inner current plus 5
@@ -211,4 +212,6 @@ bindsym $mod+Shift+o gaps outer current minus 5
 
 #execute when i3 starts
 exec_always --no-startup-id compton -f
+exec_always --no-startup-id feh --bg-scale /home/crome/Downloads/f.jpg
 exec_always --no-startup-id /home/crome/.config/polybar/launch.sh
+exec_always --no-startup-id nm-applet
